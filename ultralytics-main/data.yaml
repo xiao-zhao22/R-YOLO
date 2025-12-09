@@ -1,0 +1,8 @@
+path: C:\Users\86183\Desktop\yolov8\ultralytics-main\datasets # dataset root dir
+train: C:\Users\86183\Desktop\yolov8\ultralytics-main\datasets\images\train # train images (relative to 'path') 118287 images
+val: C:\Users\86183\Desktop\yolov8\ultralytics-main\datasets\images\val  # val images (relative to 'path') 5000 images
+test: C:\Users\86183\Desktop\yolov8\ultralytics-main\datasets\images\val
+# Classes    C:\Users\86183\Desktop\yolov8\ultralytics-main\datasets\images\val
+
+names:
+  0: rebar
